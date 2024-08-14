@@ -1,6 +1,7 @@
 # sos_app
 
-This is an application written in the Flutter framework designed to easily enable contact with selected contacts or appropriate emergency services in case of a threat to health or life.
+This is an application written in the Flutter framework designed to easily enable contact with selected contacts or appropriate emergency services in case of a threat to health or life.![Uploading image.png…]()
+
 
 ## Getting Started
 
